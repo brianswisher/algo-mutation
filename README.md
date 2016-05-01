@@ -3,5 +3,5 @@
 ## usage:
 
 ```sh
-npm run package:advertising
+npm run package:app
 ```
