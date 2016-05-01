@@ -3,5 +3,5 @@
 ## usage:
 
 ```sh
-npm run package:app
+npm run entry:app
 ```
