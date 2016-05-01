@@ -1,0 +1,15 @@
+{
+  "name": "algo-mutation",
+  "version": "1.0.0",
+  "description": "algorithms to mutate source code",
+  "main": "index.js",
+  "scripts": {
+    "entry": "./scripts/decouple/entry.sh",
+    "entry:app": "npm run entry -- app",
+    "package": "./scripts/decouple/package.sh",
+    "package:app": "npm run package -- app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
